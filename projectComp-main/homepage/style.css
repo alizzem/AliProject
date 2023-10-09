@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navigation{
+    padding: 15px 10px 5px;
+}
+
+.wrapperdiv{
+    text-align: center;
+    width: 10%;
+}
